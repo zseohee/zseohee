@@ -1,11 +1,11 @@
 ## Hey 👋 I'm Seohee Choy!
-I'm a passionate developer into robotics 🤖 and computer vision 👁️<br/>
+I'm a passionate developer in robotics 🤖 and computer vision 👁️<br/>
 Currently diving into frontend 🌐 and exploring backend to grow as a full-stack dev <br/>
 I enjoy learning new tech 💻 and love building fun, useful things!!
 <br/>
 
 ### About Me
-- 👩‍🎓 &nbsp; Sophomore at University of Wisconsin-Madison, majoring in B.S. Computer Science and Data Science
+- 👩‍🎓 &nbsp; Sophomore at the University of Wisconsin-Madison, majoring in B.S. Computer Science and Data Science
 - 🤖 &nbsp; Interested in Robotics, Computer Vision, and Machine Learning
 - 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/seohee-choy/)
 - 👷 &nbsp; When I'm free, I enjoy building LEGO sets. It's a great way for me to relax and get creative!
