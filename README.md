@@ -1,15 +1,17 @@
 ## Hey 👋 I'm Seohee!
 I build intelligent systems that connect visual perception, learning, and real-world interaction.
 
+[🌐 Website](https://zseohee.github.io/) · [🔬 Research Journey](https://zseohee.github.io/journey.html) · [💼 LinkedIn](https://www.linkedin.com/in/seohee-choy/)
+
 ### About Me
 - 🦡 &nbsp; Senior at the University of Wisconsin-Madison, majoring in Computer Science and Data Science
 - 🤖 &nbsp; Interested in robotics, computer vision, and vision-language-action models
-- 📫 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/seohee-choy/)
-
+- 👩🏻‍💻 &nbsp; Currently exploring how robots can perceive, learn, and adapt in real-world environments
+  
 ### Current Focus
-- 🌱 &nbsp; Developing active-vision systems for robotic manipulation
-- 👁️ &nbsp; Exploring vision-language-action models and robot learning
-- 👩🏻‍💻 &nbsp; Check out my projects on [GitHub](https://github.com/zseohee)
+- Robot Learning: foundation models and reinforcement learning
+- Computer Vision: active perception and multimodal visual understanding
+- Simulation: developing and evaluating robotic systems in Isaac Sim and MuJoCo
 
 ### Tech Stack 🛠️ 
 
@@ -17,6 +19,7 @@ I build intelligent systems that connect visual perception, learning, and real-w
 <p>
   <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
